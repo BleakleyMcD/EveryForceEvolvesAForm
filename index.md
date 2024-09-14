@@ -1,7 +1,7 @@
 # Building Websites in GitHub
 
 ## Description
-{{ site.description }}
+{{ site.description }}  
 {{ site.pages }}
 
 More details about the project are available from the [About page](about).
