@@ -1,4 +1,1 @@
-# What
-**Do you**  
-*want to know*  
-about Shakers?
+# There is nothing to know about Shakers!
