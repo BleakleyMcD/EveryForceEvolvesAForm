@@ -16,6 +16,8 @@ See some [examples of our work]({{ page.lesson-example }}).
 
 Have any questions about what we do? [We'd love to hear from you!](mailto:{{ site.email }})
 
+[NMAAHC][NMAAHC]
+
 ---
 
 ### Site time
@@ -23,7 +25,7 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 
 {% include links.md %}
 
-[NMAAHC][NMAAHC]
+
 
 
 
